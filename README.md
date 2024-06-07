@@ -3,7 +3,7 @@ WatershedDEMLab is a simple, Landlab-based routine for constructing landscape ev
 
 The WatershedDEMLab-master folder contains three subfolders:
 
-# Demdata: # A folder containing example DEMs. It is also a convenient location for users to store their own DEMs.
+**Demdata:** A folder containing example DEMs. It is also a convenient location for users to store their own DEMs.
 Input: A folder containing the Input.csv file. This file feeds parameter values into the WatershedDEMlab.py script.
 WatershedDEMLab: A folder containing the WatershedDEMLab.py script. Running this script creates a landscape evolution model using the parameters prescribed in the Input.csv file.
 
