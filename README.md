@@ -1,5 +1,5 @@
 # WatershedDEMLab
-WatershedDEMLab is a simple, Landlab-based routine for constructing landscape evolution models of real-world watersheds. It allows users to create simple landscape evolution models of real-world watersheds. Users supply a digital elevation model of a single watershed in which all pixels are assumed to flow to a common pour point. The routine then allows users to specify a range of parameters including fluvial erosion / sediment transport, hillslope / soil processes, and spatially / temporally variable uplift, climate, rock type, and land use conditions.
+WatershedDEMLab is a simple, Landlab-based routine for constructing landscape evolution models of real-world watersheds. Users supply a digital elevation model of a single watershed in which all pixels are assumed to flow to a common pour point. The routine then allows users to specify a range of parameters including fluvial erosion / sediment transport, hillslope / soil processes, and spatially / temporally variable uplift, climate, rock type, and land use conditions.
 
 The WatershedDEMLab-master folder contains three subfolders:
 
